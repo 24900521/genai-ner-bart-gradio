@@ -4,14 +4,17 @@
 To design and develop a prototype application for Named Entity Recognition (NER) by leveraging a fine-tuned BART model and deploying the application using the Gradio framework for user interaction and evaluation.
 
 ### PROBLEM STATEMENT:
-
+To develop a Named Entity Recognition (NER) web application using the dslim/bert-base-NER model from Hugging Face that identifies and highlights entities such as persons, organizations, locations, and dates in user-provided text through an interactive Gradio interface.
 ### DESIGN STEPS:
 
 #### STEP 1:
-
+Import Libraries: Import necessary modules — os, requests, json, gradio, and dotenv.
 #### STEP 2:
+Load API Key: Load the Hugging Face API key using environment variables.
 
 #### STEP 3:
+
+Set API Endpoint: Define the model endpoint (dslim/bert-base-NER).
 
 ### PROGRAM:
 ```
