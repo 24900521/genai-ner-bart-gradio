@@ -94,7 +94,7 @@ demo.launch(share=True, server_port=int(os.environ['PORT3']))
 ```
 
 ### OUTPUT:
-<img width="1365" height="737" alt="Screenshot 2025-11-14 104225" src="https://github.com/user-attachments/assets/c7209236-526f-4f96-9288-f17c338277be" />
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/a6ecc3f7-160c-4112-9856-5207d956f95d" />
 
 
 
